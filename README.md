@@ -1,8 +1,5 @@
 # OCAAD
 
-**O**bject-**C**entric **A**lignment and **A**nchor **D**istillation for 
-Weakly Supervised Referring Expression Comprehension
-
 Official code for the paper:
 
 **"Object-Centric Alignment and Anchor Distillation for 
