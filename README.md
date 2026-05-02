@@ -1,7 +1,5 @@
 # OCAAD
 
-**O**bject-**C**entric **A**lignment and **A**nchor **D**istillation for Weakly Supervised Referring Expression Comprehension
-
 Official code for the paper:
 
 **"Object-Centric Alignment and Anchor Distillation for Weakly Supervised Referring Expression Comprehension"**  
@@ -31,4 +29,3 @@ If you find this work helpful, please cite:
 
 For questions, please contact:
 - Yi Tian: 2412391054@st.gxu.edu.cn
-- Corresponding author: qbhuang@gxu.edu.cn
