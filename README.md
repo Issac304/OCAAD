@@ -2,21 +2,19 @@
 
 Official code for the paper:
 
-**"Object-Centric Alignment and Anchor Distillation for 
-Weakly Supervised Referring Expression Comprehension"**  
+**"Object-Centric Alignment and Anchor Distillation for Weakly Supervised Referring Expression Comprehension"**  
 *Yi Tian, Cheng Yang, Qingbao Huang*  
 IJCAI 2026
 
 ## 🚧 Code Coming Soon
 
-The code will be released upon paper acceptance and publication. 
-Please stay tuned.
+The code will be released upon paper acceptance and publication. Please stay tuned.
 
 ## Citation
 
 If you find this work helpful, please cite:
 
-\`\`\`bibtex
+​```bibtex
 @inproceedings{tian2026ocaad,
   title     = {Object-Centric Alignment and Anchor Distillation for 
                Weakly Supervised Referring Expression Comprehension},
@@ -25,7 +23,7 @@ If you find this work helpful, please cite:
                Artificial Intelligence (IJCAI)},
   year      = {2026}
 }
-\`\`\`
+​```
 
 ## Contact
 
