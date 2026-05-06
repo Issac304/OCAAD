@@ -28,4 +28,4 @@ If you find this work helpful, please cite:
 ## Contact
 
 For questions, please contact:
-- Yi Tian: 2412391054@st.gxu.edu.cn
+- 2412391054@st.gxu.edu.cn
